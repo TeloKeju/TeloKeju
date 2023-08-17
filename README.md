@@ -1,4 +1,8 @@
-### Hi there 👋
+## Halo Semua !
+
+Perkenalkan nama saya **Dani Ardiansyach**.
+
+Saya seorang mahasiswa di Universitas Nusantara PGRI Kediri
 
 <!--
 **TeloKeju/TeloKeju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
